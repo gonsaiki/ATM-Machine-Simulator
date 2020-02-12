@@ -7,11 +7,11 @@
 1. **Multiple Language**
    * Bahasa Indonesia.
    * English.
-2. **Incorrect input 3 times, you will be blocked**
+2. **Incorrect input pin 3 times, you will be blocked**
    * directly blocked and out from program if you entered the wrong pin number 3 times.
 3. **Quick Withdrawal**
    * withdrawal value : 250k IDR, 500k IDR, 1000k IDR, 1500 IDR.
-4. **Custom Withdrawal*
+4. **Custom Withdrawal**
    * you can input the value of withdrawal (multiple of 50k IDR)
 5. **Change Pin**
    * user can change the pin. **the default pin** in this program is **123456**
