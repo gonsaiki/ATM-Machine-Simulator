@@ -1,30 +1,30 @@
 # ATM Machine Simulator
 
-***Membuat sebuah program simulasi atm sederhana yang dijalankan pada Command Line menggunakan bahasa pemrograman C++***
+***CLI based ATM simulation program using C++ language.***
 
-## Fitur Program
+## Program features
 
 1. **Multiple Language**
    * Bahasa Indonesia.
    * English.
-2. **Pin Salah 3x, Diblokir**
-   * Memblokir / langsung mengeluarkan program ketika user memasukan kesalahan input pin sebanyak 3x.
-3. **Menu Tarik Tunai Cepat**
-   * Terdapat menu tarik cepat, yaitu tarik tunai sebanyak : 250k, 500k, 1000k, 1500k pada menu utama.
-4. **Penarikan Jumlah Lain**
-   * User memasukan sendiri jumlah yang ingin ditarik dari ATM.
-5. **Ganti Pin**
-   * User bisa merubah pin, **pin default** pada simulasi program ini adalah **123456**
-6. **Cek Saldo**
-   * User bisa mengecek saldo, **saldo default** pada simulasi program ini adalah **500k**
+2. **Incorrect input 3 times, you will be blocked**
+   * directly blocked and out from program if you entered the wrong pin number 3 times.
+3. **Quick Withdrawal**
+   * withdrawal value : 250k IDR, 500k IDR, 1000k IDR, 1500 IDR.
+4. **Custom Withdrawal*
+   * you can input the value of withdrawal (multiple of 50k IDR)
+5. **Change Pin**
+   * user can change the pin. **the default pin** in this program is **123456**
+6. **Check your balance**
+   * **default** balance on this simulation is **500k IDR**
    
-## Beberapa Screenshot Program
+## Screenshots
 
-***Tampilan screenshot dari program yang berhasil dijalankan***
-### 1. Tampilan Menu Utama
+***Run this program on your IDE, it will display on command prompt/terminal***
+### 1. Main Menu
 ![Tampilan_Awal](https://i.ibb.co/nn4tMC7/hmmmm.jpg)
 
-### 2. Tampilan Penarikan Saldo
+### 2. Withdrawal
 ![alt text](https://i.ibb.co/R2r8Hf6/penarikan-saldo.jpg)
 
 ## AUTHOR
